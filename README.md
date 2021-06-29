@@ -6,4 +6,4 @@ To create an API Key
 
 How to run this?
 1. Download it and open through Jupyter Notebook.
-2. Simply click on <b>Open In Colab</b> button at the top of the .ipynb file.
+2. Simply click on <b>Open In Colab</b> button at the top of the .ipynb file and run through Google Colab.
